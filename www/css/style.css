@@ -1,0 +1,50 @@
+/* Empty. Add your own CSS if you like */
+body{
+  font-family: "Helvetica Neue", "Helvetica", "Arial", "sans-serif", "ＭＳ Ｐゴシック";
+}
+
+.title{
+  font-family: 'Alegreya Sans SC', sans-serif !important;
+}
+
+.group-icon{
+  max-height: 40px;
+  max-width: 40px;
+}
+
+.hatch-pink{
+  color: #fcb9cf;
+}
+
+.hatch-salmon{
+  background-color: #ffdde1 !important;
+}
+
+/*categories view*/
+.categories{
+  text-align: center;
+}
+
+.categories .header{
+  margin: 20px;
+}
+
+.categories h1{
+  letter-spacing: 10px;
+}
+
+.categories h1 span{
+  margin: 0 0;
+  padding: 0 0;
+}
+
+.category-table .col{
+  width: 30%;
+  text-align: center;
+  padding: 10px;
+}
+
+.category-table .col p{
+  font-family: 'Alegreya Sans SC', sans-serif;
+  font-weight: bold;
+}
