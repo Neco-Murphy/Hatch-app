@@ -3,10 +3,10 @@ body{
   font-family: "Helvetica Neue", "Helvetica", "Arial", "sans-serif", "ＭＳ Ｐゴシック";
 }
 
-.title{
+/*.title{
   font-family: 'Alegreya Sans SC', sans-serif !important;
 }
-
+*/
 .group-icon{
   max-height: 40px;
   max-width: 40px;
@@ -29,6 +29,15 @@ body{
   margin: 20px;
 }
 
+.categories .header h1{
+  color: #fff;
+  width: 60%;
+  margin: 0 auto;
+  border-radius: 10px;
+  background-color: #ffdde1;
+}
+
+
 .category-table .col{
   width: 30%;
   text-align: center;
@@ -36,6 +45,6 @@ body{
 }
 
 .category-table .col p{
-  font-family: 'Alegreya Sans SC', sans-serif;
   font-weight: bold;
+  color: #9b9899; /*light-gray*/
 }
