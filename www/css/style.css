@@ -42,9 +42,17 @@ body{
   width: 30%;
   text-align: center;
   padding: 10px;
+  position: relative;
 }
 
 .category-table .col p{
   font-weight: bold;
+  color: #fcb9cf; /*pink*/
+  margin-bottom: 0;
+}
+
+.category-table .col p.category-jp{
+  font-size: 70%;
+  line-height: 100%;
   color: #9b9899; /*light-gray*/
 }
